@@ -129,4 +129,4 @@ git add --all
 * Сдаю домашнее задание *
 =======
 **Thank You**
-**Евгений You are Best!**
+**Евгений You are the Best!**
